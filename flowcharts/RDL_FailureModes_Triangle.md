@@ -1,6 +1,6 @@
 # RDL Failure Modes Triangle
 
-![RDL Failure Modes Triangle](RDL_FailureModes_Triangle_v1.png)
+![RDL Failure Modes Triangle](./RDL_FailureModes_Triangle_v1.png)
 
 This diagram presents the three primary instability modes that the  
 Reflective Duality Layer is designed to detect. **Oscillation**  
