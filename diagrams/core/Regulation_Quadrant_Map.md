@@ -1,6 +1,6 @@
 # Regulation Quadrant Map
 
-![Regulation Quadrant Map](Regulation_Quadrant_Map.md.png)
+![Regulation Quadrant Map](Regulation_Quadrant_Map.png)
 
 
 **Regulation Quadrant Map**
