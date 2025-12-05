@@ -56,6 +56,16 @@ See **PROJECTS.md** for full list.
 
 ---
 
+## 📚 Diagram Library
+
+All diagrams and conceptual figures used in the Reflective Alignment Architecture (RAA) are consolidated here:
+
+➡️ **[DIAGRAMS.md](diagrams/DIAGRAMS.md)**
+
+This index will include thumbnails, descriptions, and links to all diagrams once the full upload is complete.
+
+---
+
 ## 🌐 Contact
 
 **Website**: https://www.enlightenedai.ai  
