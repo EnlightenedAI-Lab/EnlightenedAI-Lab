@@ -1,0 +1,13 @@
+# Experiments Overview
+
+This folder contains empirical tests, behavioural probes, and diagnostic evaluations conducted during the development of the Reflective Alignment Architecture (RAA) and the Reflective Duality Layer (RDL).
+
+These experiments illustrate:
+
+- Early model-drift indicators  
+- Stability under pressure  
+- Boundary-integrity behaviour  
+- Contamination and self-correction patterns  
+- Comparative reasoning depth across model families  
+
+Each sub-file documents a specific experiment and includes its diagram, methods, and key observations.
