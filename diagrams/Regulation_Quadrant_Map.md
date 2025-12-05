@@ -1,7 +1,7 @@
 # Regulation Quadrant Map
 
-![Regulation Quadrant Map](Regulation_Quadrant_Map.png)
 
+![Regulation Quadrant Map](Regulation_Quadrant_Map.png)
 **Regulation Quadrant Map**
 
 Illustrates how different levels of reflective regulation produce four characteristic behavioral modes in AI models:
