@@ -1,16 +1,37 @@
-### Diagrams Test (3 items)
+## Diagrams Test (3 items)
 
-<a href="diagrams/SR_Coherence_Manifold.png">
-  <img src="diagrams/SR_Coherence_Manifold.png" width="220">
-</a>  
-SR Coherence Manifold
+<table>
+  <tr>
 
-<a href="diagrams/SR_MoralCoherence_Pentagon_v1.png">
-  <img src="diagrams/SR_MoralCoherence_Pentagon_v1.png" width="220">
-</a>  
-SR Moral Coherence Pentagon
+    <!-- 1. SR Coherence Manifold -->
+    <td align="center" width="260">
+      <a href="./diagrams/SR_Coherence_Manifold.md">
+        <img src="./diagrams/SR_Coherence_Manifold.png"
+             alt="SR Coherence Manifold"
+             width="240">
+      </a><br/>
+      <sub>SR Coherence Manifold</sub>
+    </td>
 
-<a href="diagrams/Alignment_Cost_Frontier.png">
-  <img src="diagrams/Alignment_Cost_Frontier.png" width="220">
-</a>  
-Alignment Cost Frontier
+    <!-- 2. SR Moral Coherence Pentagon (v1) -->
+    <td align="center" width="260">
+      <a href="./diagrams/SR_MoralCoherence_Pentagon.md">
+        <img src="./diagrams/SR_MoralCoherence_Pentagon_v1.png"
+             alt="SR Moral Coherence Pentagon"
+             width="240">
+      </a><br/>
+      <sub>SR Moral Coherence Pentagon</sub>
+    </td>
+
+    <!-- 3. Alignment Cost Frontier -->
+    <td align="center" width="260">
+      <a href="./diagrams/Alignment_Cost_Frontier.md">
+        <img src="./diagrams/Alignment_Cost_Frontier.png"
+             alt="Alignment Cost Frontier"
+             width="240">
+      </a><br/>
+      <sub>Alignment Cost Frontier</sub>
+    </td>
+
+  </tr>
+</table>
