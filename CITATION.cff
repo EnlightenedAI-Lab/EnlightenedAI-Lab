@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use any component of the Enlightened AI Lab (RAA, RDL, SCA, Mirror-H, LLM-Judge) in your work, please cite this repository."
+title: "Enlightened AI Research Lab – Reflective Stability, Moral Coherence & Alignment Frameworks"
+version: "1.0.0"
+type: software
+
+authors:
+  - family-names: Holm
+    given-names: Nicolas
+    orcid: "https://orcid.org/0000-0003-6529-9277"
+
+abstract: >
+  The Enlightened AI Research Lab develops scientific frameworks for reflective stability, 
+  internal coherence, moral alignment, and long-horizon AI behaviour. This includes the 
+  Reflective Alignment Architecture (RAA), the Reflective Duality Layer (RDL), the 
+  Stability–Continuity–Alignment (SCA) Engine, Mirror-H (symmetry & continuity metaframework),
+  and the LLM-Judge evaluation suite. These tools define how AI systems maintain identity, 
+  coherence, intention, and reflective self-correction across long time horizons.
+
+keywords:
+  - artificial intelligence
+  - AI alignment
+  - reflective stability
+  - reflective duality
+  - coherence metrics
+  - moral coherence
+  - RAA
+  - RDL
+  - SCA engine
+  - Mirror-H
+  - LLM-Judge
+  - model evaluation
+  - reflective reasoning
+
+repository-code: "https://github.com/EnlightenedAI-Lab/EnlightenedAI-Lab"
+license: "MIT"
+date-released: "2025-01-01"
