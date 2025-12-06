@@ -13,7 +13,7 @@
       <sub>SR Coherence Manifold</sub>
     </td>
 
-    <!-- 2. SR Moral Coherence Pentagon (v1) -->
+    <!-- 2. SR Moral Coherence Pentagon -->
     <td align="center" width="260">
       <a href="./diagrams/SR_MoralCoherence_Pentagon.md">
         <img src="./diagrams/SR_MoralCoherence_Pentagon_v1.png"
