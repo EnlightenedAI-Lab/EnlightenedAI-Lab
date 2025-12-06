@@ -87,6 +87,22 @@ This index will include thumbnails, descriptions, and links to all diagrams once
 
 ---
 
+## Funders & Collaborators
+
+We welcome collaboration with research labs, foundations, and institutions interested in:
+
+- Reflective alignment & stabilizing frontier AI systems  
+- Long-horizon behavioural prediction  
+- Safety evaluation frameworks  
+- Scientific foundations of AI coherence  
+
+> **If you would like to collaborate or support this work, please contact:**  
+> **research@enlightenedai.ai**
+
+Your name or institution could be listed here.
+
+---
+
 ## 📜 License
 All repositories under Enlightened AI Lab are released with open scientific intent.  
 License terms may differ per project.
