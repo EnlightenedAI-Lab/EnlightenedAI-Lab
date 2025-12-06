@@ -1,3 +1,10 @@
+[![Org](https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github)](https://github.com/EnlightenedAI-Lab)
+[![Focus](https://img.shields.io/badge/focus-reflective%20alignment-blue)](#)
+[![Location](https://img.shields.io/badge/location-Montr%C3%A9al,%20Canada-lightgrey)](#)
+[![Website](https://img.shields.io/badge/site-enlightenedai.ai-orange)](https://www.enlightenedai.ai)
+
+
+
 # ENLIGHTENED AI RESEARCH LAB
 
 Advancing scientific frameworks for reflective stability, internal coherence, and moral alignment in frontier AI systems.
