@@ -1,20 +1,19 @@
 <p align="center">
-  <img src="visuals/lab_banner.svg"
+  <img src="./visuals/lab_banner.svg"
        alt="Enlightened AI Research Lab Banner"
-       width="100%">
+       width="100%" />
 </p>
 
-
-
-Advancing scientific frameworks for reflective stability, internal coherence, and moral alignment in frontier AI systems.
-
-Our work focuses on:
-- The Reflective Alignment Architecture (RAA)
-- The Reflective Duality Layer (RDL)
-- Model stability, drift tracking, and reflective coherence
-- Evaluation tools for next-generation AI safety
-
-We believe AI systems must demonstrate **stable values, coherent reasoning, and reflective self-correction** before they are trusted in the real world.
+<p align="center">
+  <a href="https://github.com/EnlightenedAI-Lab">
+    <img src="https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/focus-reflective%20alignment-blue" />
+  <img src="https://img.shields.io/badge/location-Montr%C3%A9al%2C%20Canada-lightgrey" />
+  <a href="https://www.enlightenedai.ai">
+    <img src="https://img.shields.io/badge/site-enlightenedai.ai-orange" />
+  </a>
+</p>
 
 ---
 
