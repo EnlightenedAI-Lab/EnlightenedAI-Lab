@@ -1,188 +1,253 @@
-# 📸 Visual Gallery — Full Camera-Roll Index
+# 📊 Diagram Gallery — All Concept Maps & Surfaces
 
-A unified visual archive of **all diagrams, flowcharts, and behavioural experiment figures** in the Enlightened AI Lab repository.
-
-Every image in `/diagrams/`, `/flowcharts/`, and `/experiments/` appears below as a thumbnail with its caption and link to the corresponding `.md` explanation page.
-
----
+A visual index of all alignment diagrams in the `diagrams/` folder.  
+Each thumbnail links to the full PNG so you can open / download at high resolution.
 
 ---
 
-# 1. 📘 Diagrams (All Concept Maps, Surfaces, Fields, RDL/Ψ/5R Structures)
-
-Below is an automatically-listed gallery of every `.png` inside `/diagrams/`.
-
-> **If an image does not appear, verify:**
-> - The `.png` exists in `/diagrams/`
-> - The filename matches exactly (case-sensitive)
-
----
-
-## **Diagrams Gallery**
+> **Folder:** `/diagrams`  
+> **Format:** one thumbnail per `.png` file (camera-roll style)
 
 <table>
 <tr>
-
-<!-- BEGIN DIAGRAMS -->
-<!-- Add every diagram image manually. Replace the list below with all actual filenames in /diagrams/. -->
-
-<td align="center" width="33%">
-  <img src="./diagrams/RDL_Reflective_Stability_Map.png" width="200"><br>
-  <a href="./diagrams/RDL_Reflective_Stability_Map.md">RDL Reflective Stability Map</a>
-</td>
-
-<td align="center" width="33%">
-  <img src="./diagrams/Reflective_Core_Triangle_v1.png" width="200"><br>
-  <a href="./diagrams/Reflective_Core_Triangle.md">Reflective Core Triangle</a>
-</td>
-
-<td align="center" width="33%">
-  <img src="./diagrams/SR_Coherence_Manifold.png" width="200"><br>
-  <a href="./diagrams/SR_Coherence_Manifold.md">SR Coherence Manifold</a>
-</td>
-
-</tr><tr>
-
 <td align="center">
-  <img src="./diagrams/SR_Moral_Coherence_Pentagon.png" width="200"><br>
-  <a href="./diagrams/SR_Moral_Coherence_Pentagon.md">SR Moral Coherence Pentagon</a>
+  <a href="./SR_Coherence_Manifold.png">
+    <img src="./SR_Coherence_Manifold.png" width="230"/>
+  </a><br/>
+  SR Coherence Manifold
 </td>
-
 <td align="center">
-  <img src="./diagrams/Reflective_Spiral_Pathways.png" width="200"><br>
-  <a href="./diagrams/Reflective_Spiral_Pathways.md">Reflective Spiral Pathways</a>
+  <a href="./SR_MoralCoherence_Pentagon_v1.png">
+    <img src="./SR_MoralCoherence_Pentagon_v1.png" width="230"/>
+  </a><br/>
+  SR Moral Coherence Pentagon
 </td>
-
 <td align="center">
-  <img src="./diagrams/Reflective_Stability_Surface.png" width="200"><br>
-  <a href="./diagrams/Reflective_Stability_Surface.md">Reflective Stability Surface</a>
+  <a href="./Alignment_Cost_Frontier.png">
+    <img src="./Alignment_Cost_Frontier.png" width="230"/>
+  </a><br/>
+  Alignment Cost Frontier
 </td>
-
 </tr>
 
-<!-- END DIAGRAMS -->
+<tr>
+<td align="center">
+  <a href="./Alignment_Drift_Curve_v1.png">
+    <img src="./Alignment_Drift_Curve_v1.png" width="230"/>
+  </a><br/>
+  Alignment Drift Curve
+</td>
+<td align="center">
+  <a href="./Coherence_Collapse_Mode_v1.png">
+    <img src="./Coherence_Collapse_Mode_v1.png" width="230"/>
+  </a><br/>
+  Coherence Collapse Modes
+</td>
+<td align="center">
+  <a href="./Coherence_Triangle_v1.png">
+    <img src="./Coherence_Triangle_v1.png" width="230"/>
+  </a><br/>
+  Coherence Triangle
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./Constructive_Divergence.png">
+    <img src="./Constructive_Divergence.png" width="230"/>
+  </a><br/>
+  Constructive Divergence
+</td>
+<td align="center">
+  <a href="./Contamination_Drift_Map.png">
+    <img src="./Contamination_Drift_Map.png" width="230"/>
+  </a><br/>
+  Contamination Drift Map
+</td>
+<td align="center">
+  <a href="./Energy_Burden_Misalignment.png">
+    <img src="./Energy_Burden_Misalignment.png" width="230"/>
+  </a><br/>
+  Energy Burden of Misalignment
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./KL_Pipeline_Trajectories_v1.png">
+    <img src="./KL_Pipeline_Trajectories_v1.png" width="230"/>
+  </a><br/>
+  KL Pipeline Trajectories
+</td>
+<td align="center">
+  <a href="./Knowledge_Uncertainty_Field.png">
+    <img src="./Knowledge_Uncertainty_Field.png" width="230"/>
+  </a><br/>
+  Knowledge–Uncertainty Field
+</td>
+<td align="center">
+  <a href="./Long_Horizon_Coherence_Curve.png">
+    <img src="./Long_Horizon_Coherence_Curve.png" width="230"/>
+  </a><br/>
+  Long-Horizon Coherence Curve
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./Positive_Resonance_Learning_Curve.png">
+    <img src="./Positive_Resonance_Learning_Curve.png" width="230"/>
+  </a><br/>
+  Positive Resonance Learning Curve
+</td>
+<td align="center">
+  <a href="./Predictive_Drift_Sequence.png">
+    <img src="./Predictive_Drift_Sequence.png" width="230"/>
+  </a><br/>
+  Predictive Drift Sequence
+</td>
+<td align="center">
+  <a href="./Psi_Degradation_Planning_Horizon.png">
+    <img src="./Psi_Degradation_Planning_Horizon.png" width="230"/>
+  </a><br/>
+  Ψ Degradation vs Planning Horizon
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./Psi_Interference_Field.png">
+    <img src="./Psi_Interference_Field.png" width="230"/>
+  </a><br/>
+  Ψ Interference Field
+</td>
+<td align="center">
+  <a href="./Psi_MCL_Time_Degradation.png">
+    <img src="./Psi_MCL_Time_Degradation.png" width="230"/>
+  </a><br/>
+  Ψ / MCI★ Time Degradation
+</td>
+<td align="center">
+  <a href="./Psi_Version_Trajectory.png">
+    <img src="./Psi_Version_Trajectory.png" width="230"/>
+  </a><br/>
+  Ψ Version Trajectory
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./RDL_Reflective_Stability_Map.png">
+    <img src="./RDL_Reflective_Stability_Map.png" width="230"/>
+  </a><br/>
+  RDL Reflective Stability Map
+</td>
+<td align="center">
+  <a href="./RDL_TriMetric_Core_v1.png">
+    <img src="./RDL_TriMetric_Core_v1.png" width="230"/>
+  </a><br/>
+  RDL Tri-Metric Core
+</td>
+<td align="center">
+  <a href="./RKR_Schema_Diagram_v1.png">
+    <img src="./RKR_Schema_Diagram_v1.png" width="230"/>
+  </a><br/>
+  RKR Schema Diagram
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./RRO_Contamination_Gradient.png">
+    <img src="./RRO_Contamination_Gradient.png" width="230"/>
+  </a><br/>
+  RRO Contamination Gradient
+</td>
+<td align="center">
+  <a href="./R_Stability_Interaction_Diagram.png">
+    <img src="./R_Stability_Interaction_Diagram.png" width="230"/>
+  </a><br/>
+  R-Stability Interaction Diagram
+</td>
+<td align="center">
+  <a href="./Reflective_Core_Triangle_v1.png">
+    <img src="./Reflective_Core_Triangle_v1.png" width="230"/>
+  </a><br/>
+  Reflective Core Triangle
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./Reflective_Spiral_Pathways.png">
+    <img src="./Reflective_Spiral_Pathways.png" width="230"/>
+  </a><br/>
+  Reflective Spiral Pathways
+</td>
+<td align="center">
+  <a href="./Reflective_Stability_Surface.png">
+    <img src="./Reflective_Stability_Surface.png" width="230"/>
+  </a><br/>
+  Reflective Stability Surface
+</td>
+<td align="center">
+  <a href="./Regulation_Intensity_Heatmap_v1.png">
+    <img src="./Regulation_Intensity_Heatmap_v1.png" width="230"/>
+  </a><br/>
+  Regulation Intensity Heatmap
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./Regulation_Quadrant_Map.png">
+    <img src="./Regulation_Quadrant_Map.png" width="230"/>
+  </a><br/>
+  Regulation Quadrant Map
+</td>
+<td align="center">
+  <a href="./Retrofitted_vs_RAA_Built_Alignment_Structures.png">
+    <img src="./Retrofitted_vs_RAA_Built_Alignment_Structures.png" width="230"/>
+  </a><br/>
+  Retrofitted vs RAA-Built Alignment Structures
+</td>
+<td align="center">
+  <a href="./S_Series_Ethical_Boundary_Profile.png">
+    <img src="./S_Series_Ethical_Boundary_Profile.png" width="230"/>
+  </a><br/>
+  S-Series Ethical Boundary Profile
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="./Stability_Distortion_Surface.png">
+    <img src="./Stability_Distortion_Surface.png" width="230"/>
+  </a><br/>
+  Stability Distortion Surface
+</td>
+<td align="center">
+  <a href="./World_State_Alignment_Stack.png">
+    <img src="./World_State_Alignment_Stack.png" width="230"/>
+  </a><br/>
+  World-State Alignment Stack
+</td>
+<td align="center">
+  <a href="./goodhart_trajectory_map.png">
+    <img src="./goodhart_trajectory_map.png" width="230"/>
+  </a><br/>
+  Goodhart Trajectory Map
+</td>
+</tr>
 
 </table>
 
 ---
 
----
+### Notes
 
-# 2. 🔧 Flowcharts (RAA / RDL Pipelines, Architecture Flows, Compute Maps)
+- To add a new diagram later, just:
+  1. Upload the `.png` into `/diagrams/`.
+  2. Add a new `<td>` block in this file following the existing pattern.
 
-All `.png` in `/flowcharts/` appear below.
-
----
-
-## **Flowchart Gallery**
-
-<table>
-<tr>
-
-<!-- BEGIN FLOWCHARTS -->
-<td align="center" width="33%">
-  <img src="./flowcharts/LLM_RDL_RAA_Flowchart.png" width="200"><br>
-  <a href="./flowcharts/LLM_RDL_RAA_Flowchart.md">LLM → RDL → RAA Flowchart</a>
-</td>
-
-<td align="center" width="33%">
-  <img src="./flowcharts/RDL_Pipeline_Flowchart_v1.png" width="200"><br>
-  <a href="./flowcharts/RDL_Pipeline_Flowchart.md">RDL Pipeline Flowchart</a>
-</td>
-
-<td align="center" width="33%">
-  <img src="./flowcharts/RAA_Architecture_Flowchart.png" width="200"><br>
-  <a href="./flowcharts/RAA_Architecture_Flowchart.md">RAA Architecture Flowchart</a>
-</td>
-
-</tr><tr>
-
-<td align="center">
-  <img src="./flowcharts/Arc_Sentinel_World_Grounded_Architecture.png" width="200"><br>
-  <a href="./flowcharts/Arc_Sentinel_World_Grounded_Architecture.md">Arc Sentinel World-Grounded Architecture</a>
-</td>
-
-<td align="center">
-  <img src="./flowcharts/Corrective_vs_Coherent_Compute_Flows.png" width="200"><br>
-  <a href="./flowcharts/Corrective_vs_Coherent_Compute_Flows.md">Corrective vs Coherent Compute Flows</a>
-</td>
-
-<td align="center">
-  <img src="./flowcharts/Minimal_Preference_Cascade.png" width="200"><br>
-  <a href="./flowcharts/Minimal_Preference_Cascade.md">Minimal Preference Cascade</a>
-</td>
-
-</tr>
-<!-- END FLOWCHARTS -->
-
-</table>
-
----
-
----
-
-# 3. 🧪 Experiments (Behavioural Tests, Stress Maps, Personalities)
-
-All `.png` inside `/experiments/` appear below.
-
----
-
-## **Experiment Gallery**
-
-<table>
-<tr>
-
-<!-- BEGIN EXPERIMENTS -->
-<td align="center" width="33%">
-  <img src="./experiments/Model_Alignment_Personalities.png" width="200"><br>
-  <a href="./experiments/Model_Alignment_Personalities.md">Model Alignment Personalities</a>
-</td>
-
-<td align="center" width="33%">
-  <img src="./experiments/Moral_Stress_Coalition_Map.png" width="200"><br>
-  <a href="./experiments/Moral_Stress_Coalition_Map.md">Moral Stress Coalition Map</a>
-</td>
-
-<td align="center" width="33%">
-  <img src="./experiments/Boundary_Integrity_Conversational_Pressure.png" width="200"><br>
-  <a href="./experiments/Boundary_Integrity_Conversational_Pressure.md">
-    Boundary Integrity Under Conversational Pressure
-  </a>
-</td>
-
-</tr><tr>
-
-<td align="center">
-  <img src="./experiments/Reflective_Loop_Failure_Map.png" width="200"><br>
-  <a href="./experiments/Reflective_Loop_Failure_Map.md">Reflective Loop Failure Map</a>
-</td>
-
-<td align="center">
-  <img src="./experiments/Silent_Goodhart_Map.png" width="200"><br>
-  <a href="./experiments/Silent_Goodhart_Map.md">Silent Goodhart Map</a>
-</td>
-
-<td align="center">
-  <img src="./experiments/Goodhart_Trajectory_Map.png" width="200"><br>
-  <a href="./experiments/Goodhart_Trajectory_Map.md">Goodhart Trajectory Map (Experiment)</a>
-</td>
-
-</tr>
-<!-- END EXPERIMENTS -->
-
-</table>
-
----
-
----
-
-# 📝 Notes
-
-- This camera-roll gallery is intended as a **full visual archive**.  
-- Adding a new diagram/flowchart/experiment later requires:
-  1. Upload `.png` to the correct folder  
-  2. Add one `<td>` block to the section above  
-- All individual `.md` pages remain browsable normally.
-
----
-
+- All individual explanation pages (the `.md` files for each diagram) remain browsable in the `diagrams/` folder and from the text-based index.
