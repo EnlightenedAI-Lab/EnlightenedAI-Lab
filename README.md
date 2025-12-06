@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EnlightenedAI-Lab/EnlightenedAI-Lab/main/visuals/banner_placeholder.png" alt="Enlightened AI Research Lab Banner" width="100%">
+</p>
+
 [![Org](https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github)](https://github.com/EnlightenedAI-Lab)
 [![Focus](https://img.shields.io/badge/focus-reflective%20alignment-blue)](#)
 [![Location](https://img.shields.io/badge/location-Montr%C3%A9al,%20Canada-lightgrey)](#)
