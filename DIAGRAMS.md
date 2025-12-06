@@ -1,8 +1,8 @@
-> 📚 For a visual overview, see the [Diagram Thumbnail Gallery](./GALLERY.md).
+> 📘 For a visual overview, see the [Diagram Thumbnail Gallery](./GALLERY.md).
 
 # Diagram Gallery
 
-This page is a clean visual index of all conceptual diagrams used in the
+This page is a clean visual index of all conceptual diagrams used in the 
 Reflective Alignment Architecture (RAA) and Reflective Duality Layer (RDL).
 Each link opens a dedicated diagram page with caption and explanation.
 
@@ -35,20 +35,20 @@ Each link opens a dedicated diagram page with caption and explanation.
 - [Knowledge–Uncertainty Field](./Knowledge_Uncertainty_Field.md)
 - [Psi Degradation Across Planning Horizon](./Psi_Degradation_PlanningHorizon.md)
 
-### Goodhart-Related Maps  
+### Goodhart-Related Maps
 - [Goodhart Trajectory Map](./Goodhart_Trajectory_Map.md)
 - [Silent Goodhart Map](./Silent_Goodhart_Map.md)
 
-### Contamination and Drift Maps  
+### Contamination and Drift Maps
 - [Contamination Drift Map](./Contamination_Drift_Map.md)
 - [RID Contamination Gradient](./RID_Contamination_Gradient.md)
 
-### Regulation & Stability Fields  
+### Regulation & Stability Fields
 - [Regulation Quadrant Map](./Regulation_Quadrant_Map.md)
 - [Regulation Intensity Heatmap](./Regulation_Quadrant_Heatmap.md)
 - [Reflective Stability Surface](./Reflective_Stability_Surface.md)
 
-### Energy, Burden, and Misalignment  
+### Energy, Burden, and Misalignment
 - [Energy Burden of Misalignment vs Reflective Stability](./Energy_Burden_Misalignment.md)
 
 ---
@@ -57,18 +57,19 @@ Each link opens a dedicated diagram page with caption and explanation.
 
 - [S-Series Ethical Boundary Profile](./S_Series_Ethical_Boundary_Profile.md)
 - [World-State Alignment Stack](./World_State_Alignment_Stack.md)
-- [Retrofitted vs RAA-Built Alignment Structures](./Retrofitted_vs_RAA_Built_Alignment_Structures.md)
+- [World-State Alignment Stack (RID-E + Arc Sentinel)](./World_State_Alignment_Stack_RID-E_Arc_Sentinel.md)
 - [Arc Sentinel: World-Grounded Architecture](./Arc_Sentinel_World_Grounded_Architecture.md)
+- [Retrofitted vs RAA-Built Alignment Structures](./Retrofitted_vs_RAA_Built_Alignment_Structures.md)
 
 ---
 
 ## Learning, Resonance, and Long-Horizon Behaviour
 
 - [Positive Resonance Learning Curve](./Positive_Resonance_Learning_Curve.md)
-- [FQ Pipeline Trajectories](./KL_Pipeline_Trajectories_v1.md)
+- [FQ Pipeline Trajectories](./FQ_Pipeline_Trajectories.md)
 
 ---
 
-#### Notes
+### Notes
 - If a link ever breaks (e.g., filename changes), update only the line here.
 - All diagrams remain directly accessible in the `/diagrams` folder.
