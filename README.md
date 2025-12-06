@@ -1,11 +1,19 @@
 <p align="center">
-  <img src="./visuals/lab_banner.png"
+  <img src="visuals/lab_banner.svg"
        alt="Enlightened AI Research Lab Banner"
        width="100%">
 </p>
 
-
-
+<p align="center">
+  <a href="https://github.com/EnlightenedAI-Lab">
+    <img src="https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/focus-reflective%20alignment-blue" />
+  <img src="https://img.shields.io/badge/location-Montr%C3%A9al%2C%20Canada-lightgrey" />
+  <a href="https://www.enlightenedai.ai">
+    <img src="https://img.shields.io/badge/site-enlightenedai.ai-orange" />
+  </a>
+</p>
 
 [![Org](https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github)](https://github.com/EnlightenedAI-Lab)
 [![Focus](https://img.shields.io/badge/focus-reflective%20alignment-blue)](#)
