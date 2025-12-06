@@ -2,9 +2,10 @@
 
 # Diagram Gallery
 
-This page is a clean visual index of all conceptual diagrams used in the 
-Reflective Alignment Architecture (RAA) and Reflective Duality Layer (RDL).
-Each link opens a dedicated diagram page with caption and explanation.
+This page is a clean visual index of all conceptual diagrams, flowcharts, and
+behavioural experiment maps used in the Reflective Alignment Architecture (RAA)
+and Reflective Duality Layer (RDL).  
+Each link opens a dedicated page with caption and explanation.
 
 ---
 
@@ -36,19 +37,23 @@ Each link opens a dedicated diagram page with caption and explanation.
 - [Psi Degradation Across Planning Horizon](./Psi_Degradation_PlanningHorizon.md)
 
 ### Goodhart-Related Maps
+
 - [Goodhart Trajectory Map](./Goodhart_Trajectory_Map.md)
 - [Silent Goodhart Map](./Silent_Goodhart_Map.md)
 
 ### Contamination and Drift Maps
+
 - [Contamination Drift Map](./Contamination_Drift_Map.md)
 - [RID Contamination Gradient](./RID_Contamination_Gradient.md)
 
 ### Regulation & Stability Fields
+
 - [Regulation Quadrant Map](./Regulation_Quadrant_Map.md)
 - [Regulation Intensity Heatmap](./Regulation_Quadrant_Heatmap.md)
 - [Reflective Stability Surface](./Reflective_Stability_Surface.md)
 
 ### Energy, Burden, and Misalignment
+
 - [Energy Burden of Misalignment vs Reflective Stability](./Energy_Burden_Misalignment.md)
 
 ---
@@ -70,6 +75,29 @@ Each link opens a dedicated diagram page with caption and explanation.
 
 ---
 
+## Reflective Flowcharts & Architecture Pipelines
+
+- [LLM → RDL → RAA Flowchart](../flowcharts/LLM_RDL_RAA_Flowchart.md)
+- [RDL Pipeline Flowchart](../flowcharts/RDL_Pipeline_Flowchart.md)
+- [RDL Failure Modes Triangle](../flowcharts/RDL_FailureModes_Triangle.md)
+- [RAA Architecture Flowchart](../flowcharts/RAA_Architecture_Flowchart.md)
+- [Minimal Preference Cascade](../flowcharts/Minimal_Preference_Cascade.md)
+- [Corrective vs Coherent Compute Flows](../flowcharts/Corrective_vs_Coherent_Compute_Flows.md)
+- [Arc Sentinel: World-Grounded Architecture (Flowchart)](../flowcharts/Arc_Sentinel_World_Grounded_Architecture.md)
+
+---
+
+## Behavioural Experiments & Diagnostic Stress Maps
+
+- [Model Alignment Personalities](../experiments/Model_Alignment_Personalities.md)
+- [Moral Stress Coalition Map](../experiments/Moral_Stress_Coalition_Map.md)
+- [Boundary Integrity Under Conversational Pressure](../experiments/Boundary_Integrity_Conversational_Pressure.md)
+- [Reflective Loop Failure Map](../experiments/Reflective_Loop_Failure_Map.md)
+- [Silent Goodhart Map (Experiment)](../experiments/Silent_Goodhart_Map.md)
+
+---
+
 ### Notes
+
 - If a link ever breaks (e.g., filename changes), update only the line here.
-- All diagrams remain directly accessible in the `/diagrams` folder.
+- All figures remain directly accessible in the `/diagrams`, `/flowcharts`, and `/experiments` folders.
