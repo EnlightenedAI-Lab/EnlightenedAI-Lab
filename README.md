@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EnlightenedAI-Lab/EnlightenedAI-Lab/main/visuals/enlightened_banner.png" width="100%" alt="Enlightened AI Research Lab Banner">
+  <img src="./visuals/lab_banner.png"
+       alt="Enlightened AI Research Lab Banner"
+       width="100%">
 </p>
+
 
 
 [![Org](https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github)](https://github.com/EnlightenedAI-Lab)
