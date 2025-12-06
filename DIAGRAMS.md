@@ -1,10 +1,10 @@
-> 📚 For a visual overview, see the [Diagram Thumbnail Gallery](diagrams/GALLERY.md).
+> 📚 For a visual overview, see the [Diagram Thumbnail Gallery](./GALLERY.md).
 
 # Diagram Gallery
 
-This page is a quick visual index of the main conceptual diagrams used in the
+This page is a clean visual index of all conceptual diagrams used in the
 Reflective Alignment Architecture (RAA) and Reflective Duality Layer (RDL).
-Each link opens a small page that shows the diagram with its caption.
+Each link opens a dedicated diagram page with caption and explanation.
 
 ---
 
@@ -24,23 +24,32 @@ Each link opens a small page that shows the diagram with its caption.
 
 ## Stability, Drift, and Goodhart Diagnostics
 
-- [Predictive Drift Sequence](./Predictive_Drift_Sequence.md)
-- [Predictive Drift Sequence (long-horizon)](./Predictive_Drift_Sequence_long-horizon.md)
-- [Psi / MCI★ Time Degradation](./Psi_MCI_Time_Degradation.md)
-- [Psi Version Trajectory](./Psi_Version_Trajectory.md)
 - [Alignment Drift Curve](./Alignment_Drift_Curve.md)
 - [Alignment–Cost Frontier](./Alignment_Cost_Frontier.md)
+- [Predictive Drift Sequence](./Predictive_Drift_Sequence.md)
+- [Psi / MCI★ Time Degradation](./Psi_MCI_Time_Degradation.md)
+- [Psi Version Trajectory](./Psi_Version_Trajectory.md)
+- [Long-Horizon Coherence Curve](./Long_Horizon_Coherence_Curve.md)
+- [Stability Distortion Surface](./Stability_Distortion_Surface.md)
+- [R-Stability Interaction Diagram](./R_Stability_Interaction_Diagram.md)
+- [Knowledge–Uncertainty Field](./Knowledge_Uncertainty_Field.md)
+- [Psi Degradation Across Planning Horizon](./Psi_Degradation_PlanningHorizon.md)
+
+### Goodhart-Related Maps  
 - [Goodhart Trajectory Map](./Goodhart_Trajectory_Map.md)
 - [Silent Goodhart Map](./Silent_Goodhart_Map.md)
-- [Knowledge–Uncertainty Field](./Knowledge_Uncertainty_Field.md)
-- [R-Stability Interaction Diagram](./R_Stability_Interaction_Diagram.md)
-- [Regulation Quadrant Map](./Regulation_Quadrant_Map.md)
-- [Regulation Quadrant Heatmap](./Regulation_Quadrant_Heatmap.md)
-- [Stability Distortion Surface](./Stability_Distortion_Surface.md)
+
+### Contamination and Drift Maps  
 - [Contamination Drift Map](./Contamination_Drift_Map.md)
 - [RID Contamination Gradient](./RID_Contamination_Gradient.md)
-- [RID Contamination Gradient (extended)](./RID_Contamination_Gradient_extended.md)
-- [Psi Degradation Across Planning Horizon](./Psi_Degradation_PlanningHorizon.md)
+
+### Regulation & Stability Fields  
+- [Regulation Quadrant Map](./Regulation_Quadrant_Map.md)
+- [Regulation Intensity Heatmap](./Regulation_Quadrant_Heatmap.md)
+- [Reflective Stability Surface](./Reflective_Stability_Surface.md)
+
+### Energy, Burden, and Misalignment  
+- [Energy Burden of Misalignment vs Reflective Stability](./Energy_Burden_Misalignment.md)
 
 ---
 
@@ -48,20 +57,18 @@ Each link opens a small page that shows the diagram with its caption.
 
 - [S-Series Ethical Boundary Profile](./S_Series_Ethical_Boundary_Profile.md)
 - [World-State Alignment Stack](./World_State_Alignment_Stack.md)
-- [World-State Alignment Stack (RID-E + Arc Sentinel)](./World_State_Alignment_Stack_RID-E_Arc_Sentinel.md)
+- [Retrofitted vs RAA-Built Alignment Structures](./Retrofitted_vs_RAA_Built_Alignment_Structures.md)
 - [Arc Sentinel: World-Grounded Architecture](./Arc_Sentinel_World_Grounded_Architecture.md)
 
 ---
 
 ## Learning, Resonance, and Long-Horizon Behaviour
 
-- [Long-Horizon Coherence Curve](./Long_Horizon_Coherence_Curve.md)
 - [Positive Resonance Learning Curve](./Positive_Resonance_Learning_Curve.md)
-- [FQ Pipeline Trajectories](./FQ_Pipeline_Trajectories.md)
-- [Energy Burden of Misalignment vs Reflective Stability](./Energy_Burden_Misalignment.md)
+- [FQ Pipeline Trajectories](./KL_Pipeline_Trajectories_v1.md)
 
 ---
 
-If a link ever breaks (e.g., a filename changes), you can fix it by updating the
-corresponding line here. All diagrams remain browsable directly in the
-`/diagrams` folder.
+#### Notes
+- If a link ever breaks (e.g., filename changes), update only the line here.
+- All diagrams remain directly accessible in the `/diagrams` folder.
