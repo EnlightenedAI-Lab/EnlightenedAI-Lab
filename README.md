@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/EnlightenedAI-Lab/EnlightenedAI-Lab/main/visuals/lab_banner.png"
+    src="https://raw.githubusercontent.com/EnlightenedAI-Lab/EnlightenedAI-Lab/main/visuals/lab_banner.svg"
     alt="Enlightened AI Research Lab Banner"
     width="100%"
   />
