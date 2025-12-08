@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="500" viewBox="0 0 1800 500">
+  <rect width="1800" height="500" fill="#000000"/>
+  <text x="50%" y="45%" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="72" text-anchor="middle" letter-spacing="3">
+    ENLIGHTENED AI RESEARCH LAB
+  </text>
+  <text x="50%" y="62%" fill="#DDDDDD" font-family="Segoe UI, Arial, sans-serif" font-size="34" text-anchor="middle">
+    Reflective Stability · Moral Coherence · Long-Horizon Alignment
+  </text>
+</svg>
