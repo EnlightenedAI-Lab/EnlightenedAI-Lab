@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="visuals/lab_banner.png"
+  <img src="visuals/lab_banner.svg"
        alt="Enlightened AI Research Lab Banner"
        width="100%" />
 </p>
