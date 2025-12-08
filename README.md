@@ -1,100 +1,106 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/EnlightenedAI-Lab/EnlightenedAI-Lab/main/visuals/lab_banner.svg"
-    alt="Enlightened AI Research Lab Banner"
-    width="100%"
-  />
+  <img src="visuals/lab_banner.png"
+       alt="Enlightened AI Research Lab Banner"
+       width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/EnlightenedAI-Lab">
     <img src="https://img.shields.io/badge/Org-EnlightenedAI--Lab-black?logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Reflective%20Alignment-blue" />
-  <img src="https://img.shields.io/badge/Location-Montr%C3%A9al%2C%20Canada-lightgrey" />
+  <img src="https://img.shields.io/badge/focus-reflective%20alignment-blue" />
+  <img src="https://img.shields.io/badge/location-Montr%C3%A9al%2C%20Canada-lightgrey" />
   <a href="https://www.enlightenedai.ai">
-    <img src="https://img.shields.io/badge/Site-enlightenedai.ai-orange" />
+    <img src="https://img.shields.io/badge/site-enlightenedai.ai-orange" />
   </a>
 </p>
 
 ---
 
-# 🔬 Research Focus
+## 🔬 Research Focus
 
-### **Reflective Alignment Architecture (RAA)**
-A multi-layer cognitive alignment framework (L1–L7) built to measure:
+### Reflective Alignment Architecture (RAA)
+
+A multi-layer framework (L1–L7) designed to measure:
+
 - Internal coherence  
 - Value alignment  
 - Longitudinal drift  
-- Reflective correction  
+- Reflective self-correction  
 - System-level stability  
 
----
+### Reflective Duality Layer (RDL)
 
-### **Reflective Duality Layer (RDL)**  
-Mathematical layer that compares:
-- Forward response  
-- Reflective response  
-- Δ Improvement (R∇)  
+Mathematical core of RAA, comparing:
+
+- Forward answer  
+- Reflective answer  
+- Δ improvement (R∇)  
 - Coherence stability (MCI★)  
 
-This forms the stability-core of RAA.
+### Applied Evaluation Tools
 
----
-
-### **Applied Evaluation Systems**
 We develop:
-- **LLM-Judge** — reflective coherence + drift evaluation engine  
-- **Mirror-H** — semantic stability & gyroscopic interpretability  
-- **RAA-Core** — formal definitions, equations, and diagrams  
+
+- **LLM-Judge** – evaluation engine for coherence, stability, and drift  
+- **MIRROR-H** – Human–AI–Earth coherence model and interpretability lens  
+- **RAA-Core** – formal definitions, equations, and diagrams  
 
 ---
 
-# 📂 Key Projects
+## 📂 Key Projects
 
-### 🔹 **LLM-Judge**  
-Reflective coherence, stability, and drift evaluation.  
-https://github.com/EnlightenedAI-Lab/LLM-Judge
+(See `PROJECTS.md` for the full list.)
 
-### 🔹 **RAA-Core**  
-Formal definitions, mathematics, and diagrams for RAA.  
-https://github.com/EnlightenedAI-Lab/RAA-Core
+- **LLM-Judge**  
+  Multi-layer evaluation system for reflective coherence, stability, and drift.  
+  <https://github.com/EnlightenedAI-Lab/LLM-Judge>
 
-### 🔹 **Mirror-H**  
-Interpretability toolkit for semantic stability and reflective mapping.  
-https://github.com/EnlightenedAI-Lab/Mirror-H
+- **RAA-Core**  
+  Formal definitions, math, and diagrams of the Reflective Alignment Architecture.  
+  <https://github.com/EnlightenedAI-Lab/RAA-Core>
 
----
-
-# 📚 Diagram Library  
-All conceptual figures, flowcharts, and stability maps are indexed here:
-
-➡️ **[DIAGRAMS.md](diagrams/DIAGRAMS.md)**  
+- **MIRROR-H**  
+  Human–AI–Earth stability framework and interpretability toolkit.  
+  <https://github.com/EnlightenedAI-Lab/Mirror-H>
 
 ---
 
-# 🌐 Contact
+## 📚 Diagram Library
 
-**Website:** https://www.enlightenedai.ai  
+All diagrams and conceptual figures are consolidated in:
+
+➡️ **[Diagram Gallery](diagrams/DIAGRAMS.md)**  
+
+(Links out to per-diagram pages with captions and explanations.)
+
+---
+
+## 🌐 Contact
+
+**Website:** <https://www.enlightenedai.ai>  
 **Email:** research@enlightenedai.ai  
-**GitHub Organization:** https://github.com/EnlightenedAI-Lab  
+**GitHub Org:** <https://github.com/EnlightenedAI-Lab>  
 **Location:** Montréal, Canada  
-**ORCID:** https://orcid.org/0009-0006-5352-9727  
+**ORCID:** <https://orcid.org/0009-0006-5352-9727>  
 
 ---
 
-# 🤝 Funders & Collaborators
+## 🤝 Funders & Collaborators
 
-We welcome collaboration with groups interested in:
-- Reflective alignment  
-- Long-horizon behavioral prediction  
-- Frontier model stabilization  
-- AI coherence science  
+We welcome collaboration with research labs, foundations, and institutions interested in:
 
-**Contact:** research@enlightenedai.ai
+- Reflective alignment & stabilizing frontier AI systems  
+- Long-horizon behavioural prediction  
+- Safety evaluation frameworks  
+- Scientific foundations of AI coherence  
+
+> If you would like to collaborate or support this work, please contact  
+> **research@enlightenedai.ai**
 
 ---
 
-# 📜 License  
-All repositories are released with open scientific intent.  
-License terms may vary by project.
+## 📜 License
+
+All repositories under Enlightened AI Research Lab are released with open scientific intent.  
+License terms may differ per project.
