@@ -31,7 +31,7 @@ A multi-layer framework (L1–L7) designed to measure:
 
 ### Reflective Duality Layer (RDL)
 
-Mathematical core of RAA, comparing:
+Reflective signal layer of RAA, comparing:
 
 - Forward answer  
 - Reflective answer  
@@ -44,7 +44,7 @@ We develop:
 
 - **LLM-Judge** – evaluation engine for coherence, stability, and drift  
 - **MIRROR-H** – Human–AI–Earth coherence model and interpretability lens  
-- **RAA-Core** – formal definitions, equations, and diagrams  
+- **RAA-Core** – formal theory, stability definitions, and conceptual diagrams  
 
 ---
 
@@ -57,7 +57,7 @@ We develop:
   <https://github.com/EnlightenedAI-Lab/LLM-Judge>
 
 - **RAA-Core**  
-  Formal definitions, math, and diagrams of the Reflective Alignment Architecture.  
+  Formal theory and diagrams of the Reflective Alignment Architecture.  
   <https://github.com/EnlightenedAI-Lab/RAA-Core>
 
 - **MIRROR-H**  
@@ -70,7 +70,7 @@ We develop:
 
 All diagrams and conceptual figures are consolidated in:
 
-➡️ **[Diagram Gallery](diagrams/DIAGRAMS.md)**  
+➡️ **[Diagram Gallery](DIAGRAMS.md)**  
 
 (Links out to per-diagram pages with captions and explanations.)
 
